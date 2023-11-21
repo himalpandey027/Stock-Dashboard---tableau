@@ -26,4 +26,4 @@ UNION Joined three datasets.
 
 <img width="826" alt="Screenshot 2023-11-21 at 23 54 48" src="https://github.com/himalpandey027/Stock-Dashboard---tableau/assets/108379203/267bec3b-9d62-40a3-8532-3bfa6bb71ccf">
 
-
+Thank you for sticking. Learning and implementing more with time!! :))
